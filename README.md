@@ -52,8 +52,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vishwakant1602&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishwakant1602&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats-three-chi-45.vercel.app/api?username=vishwakant1602&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats-three-chi-45.vercel.app/api/top-langs/?username=vishwakant1602&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
