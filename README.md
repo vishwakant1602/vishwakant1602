@@ -1,20 +1,3 @@
-## Hi there 👋
-
-<!--
-=========================================================================
-  HOW TO USE THIS FILE
-  1. Ye file "profile README" hai. Ye tere profile page pe tab dikhegi jab
-     tu ek SPECIAL repo banayega jiska naam = tera GitHub username ho.
-     (Neeche guide mein steps hain.)
-  2. Neeche Find-and-Replace kar:
-        YOUR_GITHUB_USERNAME   -> apna GitHub username
-        YOUR_LEETCODE_USERNAME -> apna LeetCode username
-        YOUR_NAME              -> apna naam
-        YOUR_LINKEDIN          -> apna LinkedIn profile ID
-  3. Bas. Commit -> profile pe live.
-=========================================================================
--->
-
 <h1 align="center">Hi 👋, I'm VISHWAKANT</h1>
 <h3 align="center">M.Tech CSE (AI/ML) @ LNMIIT Jaipur &nbsp;•&nbsp; Deep Learning · Graph ML · Competitive Programming</h3>
 
@@ -106,10 +89,10 @@
 ### 🔗 Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/](https://www.linkedin.com/in/vishwakant-643a9021b/)">
+  <a href="https://www.linkedin.com/in/vishwakant-643a9021b/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://leetcode.com/vishwakant/">
+  <a href="https://leetcode.com/u/vishwakant/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
 </p>
