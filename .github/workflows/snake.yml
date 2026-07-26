@@ -1,0 +1,36 @@
+name: Generate Snake Animation
+
+on:
+  # har 12 ghante auto-update
+  schedule:
+    - cron: "0 */12 * * *"
+  # manually chalane ke liye (Actions tab -> Run workflow)
+  workflow_dispatch:
+  # main pe push hote hi bhi
+  push:
+    branches:
+      - main
+
+# GITHUB_TOKEN ko 'output' branch pe push karne ki permission (ye line miss hoti hai to snake nahi banta)
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate snake SVG
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg
+
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
