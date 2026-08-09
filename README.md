@@ -17,7 +17,7 @@
 - 🔬 Interested in **Graph Neural Networks, Deep Learning, and Machine Learning**
 - 💻 Sharpening **DSA in C++** on LeetCode for placements
 - 🌱 Currently deepening: **PyTorch Geometric, model optimization, system design**
-- 📫 Reach me: **singhvishwakant6910@gmail.com**
+- 📫 Reach me: **vishwakant16@icloud.com**
 
 ---
 
